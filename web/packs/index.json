@@ -1,6 +1,7 @@
 {
   "packs": [
-    "testpack.json"
+    "testpack.json",
+    "TCD.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
